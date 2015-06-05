@@ -1,0 +1,6 @@
+C:\OneDrive\Software\micRecorder.ts\micRecorder\obj\Debug\micRecorder.csprojResolveAssemblyReference.cache
+C:\OneDrive\Software\micRecorder.ts\micRecorder\bin\micRecorder.dll.config
+C:\OneDrive\Software\micRecorder.ts\micRecorder\bin\micRecorder.dll
+C:\OneDrive\Software\micRecorder.ts\micRecorder\bin\micRecorder.pdb
+C:\OneDrive\Software\micRecorder.ts\micRecorder\obj\Debug\micRecorder.dll
+C:\OneDrive\Software\micRecorder.ts\micRecorder\obj\Debug\micRecorder.pdb
